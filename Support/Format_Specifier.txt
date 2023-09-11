@@ -1,0 +1,39 @@
+# The Most Commonly Used Format Specifiers in C
+
+
+The Most commonly used format specifiers are given below:
+
+
+Format Specifiers        	Type of Output
+
+
+%d or %i                 	A decimal integer or signed integer 
+
+%c 							Signed character 
+
+%f 							Signed float
+
+%e 							A floating-point number
+
+%s 							A string or sequence of character 
+
+%lf 						double
+
+%Lf 						Long double 
+
+%o 							Octal integer 
+
+%u 							Short unsigned integer
+
+%ld 						Long decimal integer
+
+%x 							Hexadecimal integer
+
+%p 							Print memory address in the hexadecimal form
+
+%zu 						size of the data type
+
+\n 							New line Character
+
+//COMMENT 					Single line of comment
+/*COMMENT*/ 				Multiple lines of comment
